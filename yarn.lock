@@ -5185,6 +5185,11 @@
     "combined-stream" "^1.0.6"
     "mime-types" "^2.1.12"
 
+"form-serialize@^0.7.2":
+  "integrity" "sha1-sKL/DCICb7bT0VydM/beakMuRzI="
+  "resolved" "https://registry.npmjs.org/form-serialize/-/form-serialize-0.7.2.tgz"
+  "version" "0.7.2"
+
 "forwarded@~0.1.2":
   "integrity" "sha1-mMI9qxF1ZXuMBXPozszZGw/xjIQ="
   "resolved" "https://registry.npmjs.org/forwarded/-/forwarded-0.1.2.tgz"
